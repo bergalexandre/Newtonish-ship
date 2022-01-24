@@ -8,7 +8,10 @@
 * Dans unity, chosir VSCode comme éditeur
 * Dans unity, en bas à droite cliquer sur le bug pour activer le débogage
 * Dans VSCode, partir la session de debug avec Unity Editor
-* should be good to go
+* should be good with most joystick exept for the hat switch and Z rotation I think
+
+
+
 
 ## Objectifs futur
 
